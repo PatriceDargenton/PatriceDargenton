@@ -13,7 +13,16 @@ Hi, I'm Patrice 👋 I'm a 🚀 french developer 🚀 I ❤️ Visual Basic .NET
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PatriceDargenton)
 
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/patrice-dargenton-b4b8318b)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/pat_dargenton)
+
+[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
 <!--
+
+[![Patrice's github trophy](https://github-profile-trophy.vercel.app/?username=PatriceDargenton&row=1)](https://github.com/PatriceDargenton/github-profile-trophy)
+
 **PatriceDargenton/PatriceDargenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
