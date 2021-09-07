@@ -5,6 +5,8 @@
 [![Logotron](https://github-readme-stats.vercel.app/api/pin/?username=PatriceDargenton&repo=Logotron)](https://github.com/PatriceDargenton/Logotron)
 [![File2XL](https://github-readme-stats.vercel.app/api/pin/?username=PatriceDargenton&repo=File2XL)](https://github.com/PatriceDargenton/File2XL)
 
+![Metrics](https://metrics.lecoq.io/PatriceDargenton?template=classic&config.timezone=Europe%2FParis)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PatriceDargenton)
 
 <!--
