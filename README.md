@@ -1,5 +1,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PatriceDargenton&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PatriceDargenton&langs_count=5&theme=tokyonight&layout=compact)]()
+[![Prénom Mixte](https://github-readme-stats.vercel.app/api/pin/?username=PatriceDargenton&repo=PrenomMixte)](https://github.com/PatriceDargenton/PrenomMixte)
+[![One Ring](https://github-readme-stats.vercel.app/api/pin/?username=PatriceDargenton&repo=One-Ring-to-rule-them-all)](https://github.com/PatriceDargenton/One-Ring-to-rule-them-all)
 
 <!--
 **PatriceDargenton/PatriceDargenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
