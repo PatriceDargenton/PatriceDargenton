@@ -9,15 +9,12 @@ Hi, I'm Patrice 👋 I'm a 🚀 french developer 🚀 I ❤️ Visual Basic .NET
 [![Logotron](https://github-readme-stats.vercel.app/api/pin/?username=PatriceDargenton&repo=Logotron)](https://github.com/PatriceDargenton/Logotron)
 [![File2XL](https://github-readme-stats.vercel.app/api/pin/?username=PatriceDargenton&repo=File2XL)](https://github.com/PatriceDargenton/File2XL)
 
-![Metrics](https://metrics.lecoq.io/PatriceDargenton?template=classic&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FParis)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PatriceDargenton)
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/patrice-dargenton-b4b8318b)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/pat_dargenton)
 
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 <!--
 
