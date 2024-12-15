@@ -14,6 +14,7 @@ Hi, I'm Patrice 👋 I'm a 🚀 french developer 🚀 I ❤️ Visual Basic .NET
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/patrice-dargenton-b4b8318b)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/pat_dargenton)
+[![](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@patrice.dargenton)
 
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 
