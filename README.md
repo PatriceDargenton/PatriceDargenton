@@ -1,7 +1,7 @@
 Hi, I'm Patrice 👋 I'm a 🚀 french developer 🚀 I ❤️ Visual Basic .NET ❤️
 
 [https://github.com/PatriceDargenton/One-Ring-to-rule-them-all](https://github.com/PatriceDargenton/One-Ring-to-rule-them-all)
-![https://github.com/PatriceDargenton/One-Ring-to-rule-them-all](https://camo.githubusercontent.com/0f302ecaeba28fa5dc718af18407eb0048f6791217a7b84caf61698d329672a8/687474703a2f2f706174726963652e64617267656e746f6e2e667265652e66722f61692f70657263657074726f6e2f786f722f786f722d74616e682d3232312d626967322e676966 "Machine Learning and Deep Learning simply minimize the distance between the crosses and the curve (this is the XOR example here: Exclusive or), see One-Ring-to-rule-them-all project")
+![https://github.com/PatriceDargenton/One-Ring-to-rule-them-all](https://camo.githubusercontent.com/2acbbb7e9756cc9e9b55f5bd0a04c4949954a600a4f79e02526134038648c556/687474703a2f2f706174726963652e64617267656e746f6e2e667265652e66722f61692f70657263657074726f6e2f786f722f786f722d74616e682d3232312d626967322e676966 "Machine Learning and Deep Learning simply minimize the distance between the crosses and the curve (this is the XOR example here: Exclusive or), see One-Ring-to-rule-them-all project")
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PatriceDargenton)
 
